@@ -1,6 +1,6 @@
-# Imanly - Islamic Prayer Times App
+# Kitabi - Islamic Prayer Times App
 
-Imanly is a modern Islamic prayer times application, offering precise prayer times, adhan notifications, and Quran recitation. Built with Flutter for both iOS and Android platforms.
+Kitabi is a modern Islamic prayer times application, offering precise prayer times, adhan notifications, and Quran recitation. Built with Flutter for both iOS and Android platforms.
 
 ## Features
 
